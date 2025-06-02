@@ -81,6 +81,7 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
+
 .apresentação__links {
     display:flex;
     flex-direction: column;
@@ -118,7 +119,7 @@ body {
 }
 
 .minha__imagem {
-    width: 50%;
+    width: 600px;
     border-radius: 40px;
 }
 
