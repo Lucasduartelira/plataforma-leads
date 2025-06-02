@@ -29,21 +29,21 @@ padding: 2% 0% 0% 5%;
 font-family: "Montserrat", sans-serif;
 font-size: 1rem;
 font-weight: 600;
-color: #6ab164;
+color: #000000;
 text-decoration: none;
 }
 
 body {
     box-sizing: border-box;
-    background-color: rgb(2, 3, 10);
-    color: var(--cor-secundaria);
+    background-color: rgb(255, 255, 255);
+    color: var(--cor-primaria);
     font-size: 80%;
     zoom: 80%;
     
 }
 
 .sub-titulo {
-       color: var(--cor-secundaria)
+       color: var(--cor-primaria)
 ;
    }
     
@@ -109,12 +109,12 @@ body {
     font-weight: 50%;
     padding: 21.5px 53px;
     text-decoration: none;
-    color: var(--cor-secundaria);
+    color: var(--cor-primaria);
     font-family: "Montserrat", sans-serif;
 }
 
 .botao__link1:hover {
-    background-color: #6ab164;
+    background-color: var(--cor-terciaria)
 }
 
 .minha__imagem {
