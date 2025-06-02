@@ -81,6 +81,10 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
+.trecho__final {
+    color: var(--cor-terciaria);
+}
+
 
 .apresentação__links {
     display:flex;
