@@ -51,7 +51,8 @@ body {
 .titulo {
     margin: 0px;
     padding: 0%;
-    color: var(--cor-terciaria)
+    color: var(--cor-terciaria);
+
 }
 
 .apresentação {
@@ -72,13 +73,14 @@ body {
 
 .apresentação__conteudo__titulo {
     font-size: 2.25rem;
-    font-family: var(--fonte-primaria);
+    font-family: var(--fonte-secundaria);
+    font-weight: normal;
        
 }
 
 .subtitulo {
     font-size: 1.5rem;
-    font-family: "Montserrat", sans-serif;
+    font-family: var(--fonte-secundaria);
 }
 
 .trecho__final {
