@@ -43,8 +43,7 @@ body {
 }
 
 .sub-titulo {
-       color: var(--cor-primaria)
-;
+       color: var(--cor-primaria);
    }
     
    
@@ -118,6 +117,7 @@ body {
     text-decoration: none;
     color: var(--cor-primaria);
     font-family: "Montserrat", sans-serif;
+
 }
 
 .botao__link1:hover {
