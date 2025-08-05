@@ -3,8 +3,8 @@
 
 :root {
     --cor-primaria: #000000;
-    --cor-secundaria: #f0f8ff;
-    --cor-terciaria: #6ab164;
+    --cor-secundaria: hsl(208, 48%, 59%);
+    --cor-terciaria: #4865b6;
 
     --fonte-primaria: "Krona One", sans-serif;
     --fonte-secundaria: "Montserrat", sans-serif;
