@@ -43,8 +43,8 @@ body {
 }
 
 .sub-titulo {
-       color: var(--cor-primaria);
-   }
+    color: var(--cor-primaria);
+}
     
    
 .titulo {
@@ -99,6 +99,7 @@ body {
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
     font-size: 1.5rem;
+    padding: 1em;
     
 
 }
@@ -124,18 +125,20 @@ body {
     background-color: var(--cor-terciaria)
 }
 
-.minha__imagem {
-    width: 520px;
-    border-radius: 40px;
-}
-
 .rodapé {
-    padding: 12px;
+    padding: 1em;
+    margin:auto;
     text-align: center;
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     font-family: "Montserrat", sans-serif;
     font-size: 1rem;
+}
+
+.foto-perfil {
+    border: 4px solid #1e90ff;
+    border-radius: 12px;
+    padding: 4px; /* opcional, espaço entre imagem e borda */
 }
 
 @media ( max-width: 1200px) {
